@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn[standard]
+httpx
+python-dotenv
+sqlalchemy
+psycopg[binary]
+ibm-watsonx-ai
+bs4
+sse-starlette
+langgraph
+langchain
+langchain-ibm
+pgvector

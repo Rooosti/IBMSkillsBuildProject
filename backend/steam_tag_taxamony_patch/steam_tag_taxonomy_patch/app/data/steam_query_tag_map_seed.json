@@ -1,0 +1,461 @@
+[
+  {
+    "query_term": "shooter",
+    "targets": [
+      {"canonical_name": "Shooter", "weight": 100, "reason": "broad shooter umbrella"},
+      {"canonical_name": "FPS", "weight": 95, "reason": "common shooter interpretation"},
+      {"canonical_name": "Third-Person Shooter", "weight": 92, "reason": "common shooter perspective"},
+      {"canonical_name": "Top-Down Shooter", "weight": 84, "reason": "common shooter subgenre"},
+      {"canonical_name": "Twin Stick Shooter", "weight": 80, "reason": "common shooter subgenre"},
+      {"canonical_name": "Arena Shooter", "weight": 76, "reason": "specific shooter subtype"},
+      {"canonical_name": "Boomer Shooter", "weight": 74, "reason": "specific shooter subtype"},
+      {"canonical_name": "Looter Shooter", "weight": 70, "reason": "specific shooter subtype"}
+    ]
+  },
+  {
+    "query_term": "fps",
+    "targets": [
+      {"canonical_name": "FPS", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Shooter", "weight": 92, "reason": "broader parent genre"},
+      {"canonical_name": "First-Person", "weight": 90, "reason": "camera perspective alignment"},
+      {"canonical_name": "Boomer Shooter", "weight": 72, "reason": "common fps subtype"},
+      {"canonical_name": "Arena Shooter", "weight": 70, "reason": "common fps subtype"}
+    ]
+  },
+  {
+    "query_term": "third person shooter",
+    "targets": [
+      {"canonical_name": "Third-Person Shooter", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Shooter", "weight": 92, "reason": "broader parent genre"},
+      {"canonical_name": "Third-Person", "weight": 88, "reason": "camera perspective alignment"}
+    ]
+  },
+  {
+    "query_term": "tps",
+    "targets": [
+      {"canonical_name": "Third-Person Shooter", "weight": 100, "reason": "direct acronym mapping"},
+      {"canonical_name": "Shooter", "weight": 90, "reason": "broader parent genre"},
+      {"canonical_name": "Third-Person", "weight": 86, "reason": "camera perspective alignment"}
+    ]
+  },
+  {
+    "query_term": "top down shooter",
+    "targets": [
+      {"canonical_name": "Top-Down Shooter", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Shooter", "weight": 90, "reason": "broader parent genre"},
+      {"canonical_name": "Top-Down", "weight": 88, "reason": "camera perspective alignment"},
+      {"canonical_name": "Twin Stick Shooter", "weight": 80, "reason": "closely related subgenre"}
+    ]
+  },
+  {
+    "query_term": "boomer shooter",
+    "targets": [
+      {"canonical_name": "Boomer Shooter", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "FPS", "weight": 94, "reason": "common parent subtype"},
+      {"canonical_name": "Shooter", "weight": 90, "reason": "broader parent genre"}
+    ]
+  },
+  {
+    "query_term": "looter shooter",
+    "targets": [
+      {"canonical_name": "Looter Shooter", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Shooter", "weight": 90, "reason": "broader parent genre"},
+      {"canonical_name": "Loot", "weight": 78, "reason": "loot-centric play loop"}
+    ]
+  },
+  {
+    "query_term": "roguelike",
+    "targets": [
+      {"canonical_name": "Roguelike", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Roguelite", "weight": 90, "reason": "closely related player intent"},
+      {"canonical_name": "Action Roguelike", "weight": 82, "reason": "common subtype"}
+    ]
+  },
+  {
+    "query_term": "roguelite",
+    "targets": [
+      {"canonical_name": "Roguelite", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Roguelike", "weight": 90, "reason": "closely related player intent"},
+      {"canonical_name": "Action Roguelike", "weight": 82, "reason": "common subtype"}
+    ]
+  },
+  {
+    "query_term": "action roguelike",
+    "targets": [
+      {"canonical_name": "Action Roguelike", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Roguelite", "weight": 90, "reason": "closely related parent"},
+      {"canonical_name": "Roguelike", "weight": 84, "reason": "closely related parent"}
+    ]
+  },
+  {
+    "query_term": "soulslike",
+    "targets": [
+      {"canonical_name": "Souls-like", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Action RPG", "weight": 72, "reason": "common adjacent genre"},
+      {"canonical_name": "Dark Fantasy", "weight": 42, "reason": "common theme overlap"}
+    ]
+  },
+  {
+    "query_term": "metroidvania",
+    "targets": [
+      {"canonical_name": "Metroidvania", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Platformer", "weight": 84, "reason": "common parent genre"},
+      {"canonical_name": "Exploration", "weight": 74, "reason": "common loop overlap"},
+      {"canonical_name": "Side Scroller", "weight": 70, "reason": "common viewpoint overlap"}
+    ]
+  },
+  {
+    "query_term": "cozy",
+    "targets": [
+      {"canonical_name": "Relaxing", "weight": 100, "reason": "common cozy intent"},
+      {"canonical_name": "Cute", "weight": 76, "reason": "common cozy aesthetic"},
+      {"canonical_name": "Atmospheric", "weight": 60, "reason": "common cozy mood"},
+      {"canonical_name": "Casual", "weight": 56, "reason": "common cozy overlap"}
+    ]
+  },
+  {
+    "query_term": "relaxing",
+    "targets": [
+      {"canonical_name": "Relaxing", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Casual", "weight": 68, "reason": "common overlap"},
+      {"canonical_name": "Atmospheric", "weight": 60, "reason": "common overlap"}
+    ]
+  },
+  {
+    "query_term": "chill",
+    "targets": [
+      {"canonical_name": "Relaxing", "weight": 94, "reason": "common player intent"},
+      {"canonical_name": "Casual", "weight": 66, "reason": "common overlap"},
+      {"canonical_name": "Atmospheric", "weight": 58, "reason": "common overlap"}
+    ]
+  },
+  {
+    "query_term": "horror",
+    "targets": [
+      {"canonical_name": "Horror", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Survival Horror", "weight": 86, "reason": "common horror subtype"},
+      {"canonical_name": "Psychological Horror", "weight": 84, "reason": "common horror subtype"}
+    ]
+  },
+  {
+    "query_term": "spooky",
+    "targets": [
+      {"canonical_name": "Horror", "weight": 86, "reason": "common intent overlap"},
+      {"canonical_name": "Psychological Horror", "weight": 74, "reason": "common spooky mood"},
+      {"canonical_name": "Dark", "weight": 52, "reason": "common mood overlap"}
+    ]
+  },
+  {
+    "query_term": "story rich",
+    "targets": [
+      {"canonical_name": "Story Rich", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Choices Matter", "weight": 74, "reason": "common narrative overlap"},
+      {"canonical_name": "Narrative", "weight": 72, "reason": "common narrative overlap"}
+    ]
+  },
+  {
+    "query_term": "narrative",
+    "targets": [
+      {"canonical_name": "Narrative", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Story Rich", "weight": 92, "reason": "closely related"},
+      {"canonical_name": "Choices Matter", "weight": 68, "reason": "common narrative overlap"}
+    ]
+  },
+  {
+    "query_term": "visual novel",
+    "targets": [
+      {"canonical_name": "Visual Novel", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Story Rich", "weight": 70, "reason": "common adjacent feature"},
+      {"canonical_name": "Choices Matter", "weight": 60, "reason": "common adjacent feature"}
+    ]
+  },
+  {
+    "query_term": "mystery",
+    "targets": [
+      {"canonical_name": "Mystery", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Detective", "weight": 82, "reason": "common adjacent theme"},
+      {"canonical_name": "Investigation", "weight": 76, "reason": "common adjacent mechanic"}
+    ]
+  },
+  {
+    "query_term": "detective",
+    "targets": [
+      {"canonical_name": "Detective", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Mystery", "weight": 84, "reason": "common adjacent theme"},
+      {"canonical_name": "Investigation", "weight": 76, "reason": "common adjacent mechanic"}
+    ]
+  },
+  {
+    "query_term": "stealth",
+    "targets": [
+      {"canonical_name": "Stealth", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Assassin", "weight": 54, "reason": "common theme overlap"}
+    ]
+  },
+  {
+    "query_term": "immersive sim",
+    "targets": [
+      {"canonical_name": "Immersive Sim", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Stealth", "weight": 52, "reason": "common adjacent design"},
+      {"canonical_name": "Exploration", "weight": 50, "reason": "common adjacent design"}
+    ]
+  },
+  {
+    "query_term": "open world",
+    "targets": [
+      {"canonical_name": "Open World", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Exploration", "weight": 70, "reason": "common open-world overlap"},
+      {"canonical_name": "Sandbox", "weight": 62, "reason": "common open-world overlap"}
+    ]
+  },
+  {
+    "query_term": "survival crafting",
+    "targets": [
+      {"canonical_name": "Open World Survival Craft", "weight": 100, "reason": "direct player intent"},
+      {"canonical_name": "Survival", "weight": 84, "reason": "parent survival loop"},
+      {"canonical_name": "Crafting", "weight": 80, "reason": "parent crafting loop"},
+      {"canonical_name": "Base Building", "weight": 68, "reason": "common adjacent mechanic"}
+    ]
+  },
+  {
+    "query_term": "crafting",
+    "targets": [
+      {"canonical_name": "Crafting", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Open World Survival Craft", "weight": 84, "reason": "common adjacent genre"},
+      {"canonical_name": "Base Building", "weight": 68, "reason": "common adjacent mechanic"}
+    ]
+  },
+  {
+    "query_term": "base building",
+    "targets": [
+      {"canonical_name": "Base Building", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Building", "weight": 82, "reason": "common adjacent mechanic"},
+      {"canonical_name": "Colony Sim", "weight": 72, "reason": "common adjacent genre"},
+      {"canonical_name": "City Builder", "weight": 66, "reason": "common adjacent genre"}
+    ]
+  },
+  {
+    "query_term": "city builder",
+    "targets": [
+      {"canonical_name": "City Builder", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Base Building", "weight": 72, "reason": "common adjacent mechanic"},
+      {"canonical_name": "Management", "weight": 64, "reason": "common adjacent loop"}
+    ]
+  },
+  {
+    "query_term": "colony sim",
+    "targets": [
+      {"canonical_name": "Colony Sim", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Base Building", "weight": 76, "reason": "common adjacent mechanic"},
+      {"canonical_name": "Management", "weight": 66, "reason": "common adjacent loop"},
+      {"canonical_name": "Automation", "weight": 50, "reason": "common adjacent loop"}
+    ]
+  },
+  {
+    "query_term": "automation",
+    "targets": [
+      {"canonical_name": "Automation", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Building", "weight": 56, "reason": "common adjacent loop"},
+      {"canonical_name": "Management", "weight": 54, "reason": "common adjacent loop"}
+    ]
+  },
+  {
+    "query_term": "farm sim",
+    "targets": [
+      {"canonical_name": "Farming Sim", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Life Sim", "weight": 66, "reason": "common adjacent loop"},
+      {"canonical_name": "Agriculture", "weight": 62, "reason": "common theme overlap"}
+    ]
+  },
+  {
+    "query_term": "life sim",
+    "targets": [
+      {"canonical_name": "Life Sim", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Farming Sim", "weight": 58, "reason": "common adjacent loop"},
+      {"canonical_name": "Character Customization", "weight": 48, "reason": "common adjacent feature"}
+    ]
+  },
+  {
+    "query_term": "deckbuilder",
+    "targets": [
+      {"canonical_name": "Deckbuilding", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Card Battler", "weight": 82, "reason": "common adjacent genre"},
+      {"canonical_name": "Card Game", "weight": 72, "reason": "common parent genre"}
+    ]
+  },
+  {
+    "query_term": "card battler",
+    "targets": [
+      {"canonical_name": "Card Battler", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Deckbuilding", "weight": 80, "reason": "common adjacent genre"},
+      {"canonical_name": "Card Game", "weight": 74, "reason": "common parent genre"}
+    ]
+  },
+  {
+    "query_term": "jrpg",
+    "targets": [
+      {"canonical_name": "JRPG", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "RPG", "weight": 84, "reason": "parent genre"},
+      {"canonical_name": "Party-Based RPG", "weight": 54, "reason": "common adjacent genre"}
+    ]
+  },
+  {
+    "query_term": "crpg",
+    "targets": [
+      {"canonical_name": "CRPG", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "RPG", "weight": 84, "reason": "parent genre"},
+      {"canonical_name": "Party-Based RPG", "weight": 76, "reason": "common adjacent genre"}
+    ]
+  },
+  {
+    "query_term": "arpg",
+    "targets": [
+      {"canonical_name": "Action RPG", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "RPG", "weight": 80, "reason": "parent genre"},
+      {"canonical_name": "Hack and Slash", "weight": 68, "reason": "common adjacent combat loop"}
+    ]
+  },
+  {
+    "query_term": "hack and slash",
+    "targets": [
+      {"canonical_name": "Hack and Slash", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Action RPG", "weight": 72, "reason": "common adjacent genre"},
+      {"canonical_name": "Character Action Game", "weight": 68, "reason": "common adjacent combat loop"}
+    ]
+  },
+  {
+    "query_term": "character action",
+    "targets": [
+      {"canonical_name": "Character Action Game", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Hack and Slash", "weight": 72, "reason": "common adjacent combat loop"},
+      {"canonical_name": "Action", "weight": 50, "reason": "broader parent genre"}
+    ]
+  },
+  {
+    "query_term": "strategy",
+    "targets": [
+      {"canonical_name": "Strategy", "weight": 100, "reason": "direct top-level match"},
+      {"canonical_name": "Turn-Based Strategy", "weight": 82, "reason": "common strategy subtype"},
+      {"canonical_name": "Real-Time Strategy", "weight": 82, "reason": "common strategy subtype"},
+      {"canonical_name": "Grand Strategy", "weight": 72, "reason": "common strategy subtype"},
+      {"canonical_name": "4X", "weight": 70, "reason": "common strategy subtype"}
+    ]
+  },
+  {
+    "query_term": "rts",
+    "targets": [
+      {"canonical_name": "RTS", "weight": 100, "reason": "direct official abbreviation tag"},
+      {"canonical_name": "Real-Time Strategy", "weight": 94, "reason": "expanded form"},
+      {"canonical_name": "Strategy", "weight": 80, "reason": "parent genre"}
+    ]
+  },
+  {
+    "query_term": "turn based tactics",
+    "targets": [
+      {"canonical_name": "Turn-Based Tactics", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Turn-Based Strategy", "weight": 82, "reason": "common adjacent genre"},
+      {"canonical_name": "Strategy RPG", "weight": 68, "reason": "common adjacent genre"}
+    ]
+  },
+  {
+    "query_term": "4x",
+    "targets": [
+      {"canonical_name": "4X", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Grand Strategy", "weight": 76, "reason": "common adjacent strategy intent"},
+      {"canonical_name": "Turn-Based Strategy", "weight": 62, "reason": "common adjacent strategy intent"}
+    ]
+  },
+  {
+    "query_term": "grand strategy",
+    "targets": [
+      {"canonical_name": "Grand Strategy", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "4X", "weight": 72, "reason": "common adjacent strategy intent"},
+      {"canonical_name": "Strategy", "weight": 68, "reason": "parent genre"}
+    ]
+  },
+  {
+    "query_term": "online coop",
+    "targets": [
+      {"canonical_name": "Online Co-Op", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Co-op", "weight": 88, "reason": "parent multiplayer feature"},
+      {"canonical_name": "Multiplayer", "weight": 56, "reason": "broader player support"}
+    ]
+  },
+  {
+    "query_term": "couch co-op",
+    "targets": [
+      {"canonical_name": "Local Co-Op", "weight": 100, "reason": "direct intent normalization"},
+      {"canonical_name": "Co-op", "weight": 88, "reason": "parent multiplayer feature"},
+      {"canonical_name": "Shared/Split Screen", "weight": 72, "reason": "common local play overlap"}
+    ]
+  },
+  {
+    "query_term": "local multiplayer",
+    "targets": [
+      {"canonical_name": "Local Multiplayer", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Local Co-Op", "weight": 72, "reason": "common local group play overlap"},
+      {"canonical_name": "Shared/Split Screen", "weight": 68, "reason": "common local play overlap"}
+    ]
+  },
+  {
+    "query_term": "party game",
+    "targets": [
+      {"canonical_name": "Party Game", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Local Multiplayer", "weight": 70, "reason": "common party play overlap"},
+      {"canonical_name": "Funny", "weight": 46, "reason": "common party-game mood"}
+    ]
+  },
+  {
+    "query_term": "controller friendly",
+    "targets": [
+      {"canonical_name": "Controller", "weight": 100, "reason": "direct player hardware intent"},
+      {"canonical_name": "Gamepad", "weight": 90, "reason": "common adjacent control term"}
+    ]
+  },
+  {
+    "query_term": "anime",
+    "targets": [
+      {"canonical_name": "Anime", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "JRPG", "weight": 44, "reason": "common adjacent style overlap"}
+    ]
+  },
+  {
+    "query_term": "sci fi",
+    "targets": [
+      {"canonical_name": "Sci-fi", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Space", "weight": 64, "reason": "common adjacent theme"},
+      {"canonical_name": "Futuristic", "weight": 56, "reason": "common adjacent theme"}
+    ]
+  },
+  {
+    "query_term": "cyberpunk",
+    "targets": [
+      {"canonical_name": "Cyberpunk", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Sci-fi", "weight": 60, "reason": "common adjacent theme"},
+      {"canonical_name": "Futuristic", "weight": 52, "reason": "common adjacent theme"}
+    ]
+  },
+  {
+    "query_term": "fantasy",
+    "targets": [
+      {"canonical_name": "Fantasy", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Dark Fantasy", "weight": 70, "reason": "common fantasy subtype"},
+      {"canonical_name": "Magic", "weight": 60, "reason": "common fantasy overlap"}
+    ]
+  },
+  {
+    "query_term": "post apocalyptic",
+    "targets": [
+      {"canonical_name": "Post-apocalyptic", "weight": 100, "reason": "direct normalization"},
+      {"canonical_name": "Survival", "weight": 52, "reason": "common adjacent theme"}
+    ]
+  },
+  {
+    "query_term": "zombies",
+    "targets": [
+      {"canonical_name": "Zombies", "weight": 100, "reason": "direct match"},
+      {"canonical_name": "Horror", "weight": 52, "reason": "common adjacent theme"},
+      {"canonical_name": "Post-apocalyptic", "weight": 42, "reason": "common adjacent theme"}
+    ]
+  }
+]

@@ -1,0 +1,2112 @@
+[
+  {
+    "canonical_name": "Action",
+    "category": "top_level_genres",
+    "steam_tag_id": 19
+  },
+  {
+    "canonical_name": "Adventure",
+    "category": "top_level_genres",
+    "steam_tag_id": 21
+  },
+  {
+    "canonical_name": "Casual",
+    "category": "top_level_genres",
+    "steam_tag_id": 597
+  },
+  {
+    "canonical_name": "Experimental",
+    "category": "top_level_genres",
+    "steam_tag_id": 13782
+  },
+  {
+    "canonical_name": "Puzzle",
+    "category": "top_level_genres",
+    "steam_tag_id": 1664
+  },
+  {
+    "canonical_name": "Racing",
+    "category": "top_level_genres",
+    "steam_tag_id": 699
+  },
+  {
+    "canonical_name": "RPG",
+    "category": "top_level_genres",
+    "steam_tag_id": 122
+  },
+  {
+    "canonical_name": "Simulation",
+    "category": "top_level_genres",
+    "steam_tag_id": 599
+  },
+  {
+    "canonical_name": "Sports",
+    "category": "top_level_genres",
+    "steam_tag_id": 701
+  },
+  {
+    "canonical_name": "Strategy",
+    "category": "top_level_genres",
+    "steam_tag_id": 9
+  },
+  {
+    "canonical_name": "Tabletop",
+    "category": "top_level_genres",
+    "steam_tag_id": 17389
+  },
+  {
+    "canonical_name": "Action RPG",
+    "category": "genres",
+    "steam_tag_id": 4231
+  },
+  {
+    "canonical_name": "Action-Adventure",
+    "category": "genres",
+    "steam_tag_id": 4106
+  },
+  {
+    "canonical_name": "Arcade",
+    "category": "genres",
+    "steam_tag_id": 1773
+  },
+  {
+    "canonical_name": "Auto Battler",
+    "category": "genres",
+    "steam_tag_id": 1084988
+  },
+  {
+    "canonical_name": "Automobile Sim",
+    "category": "genres",
+    "steam_tag_id": 1100687
+  },
+  {
+    "canonical_name": "Base Building",
+    "category": "genres",
+    "steam_tag_id": 7332
+  },
+  {
+    "canonical_name": "Baseball",
+    "category": "genres",
+    "steam_tag_id": 5727
+  },
+  {
+    "canonical_name": "Basketball",
+    "category": "genres",
+    "steam_tag_id": 1746
+  },
+  {
+    "canonical_name": "Battle Royale",
+    "category": "genres",
+    "steam_tag_id": 176981
+  },
+  {
+    "canonical_name": "BMX",
+    "category": "genres",
+    "steam_tag_id": 252854
+  },
+  {
+    "canonical_name": "Board Game",
+    "category": "genres",
+    "steam_tag_id": 1770
+  },
+  {
+    "canonical_name": "Bowling",
+    "category": "genres",
+    "steam_tag_id": 7328
+  },
+  {
+    "canonical_name": "Building",
+    "category": "genres",
+    "steam_tag_id": 1643
+  },
+  {
+    "canonical_name": "Card Game",
+    "category": "genres",
+    "steam_tag_id": 1666
+  },
+  {
+    "canonical_name": "Character Action Game",
+    "category": "genres",
+    "steam_tag_id": 3955
+  },
+  {
+    "canonical_name": "Chess",
+    "category": "genres",
+    "steam_tag_id": 4184
+  },
+  {
+    "canonical_name": "Clicker",
+    "category": "genres",
+    "steam_tag_id": 379975
+  },
+  {
+    "canonical_name": "Cycling",
+    "category": "genres",
+    "steam_tag_id": 19568
+  },
+  {
+    "canonical_name": "eSports",
+    "category": "genres",
+    "steam_tag_id": 5055
+  },
+  {
+    "canonical_name": "Experimental",
+    "category": "genres",
+    "steam_tag_id": 13782
+  },
+  {
+    "canonical_name": "Exploration",
+    "category": "genres",
+    "steam_tag_id": 3834
+  },
+  {
+    "canonical_name": "Farming Sim",
+    "category": "genres",
+    "steam_tag_id": 87918
+  },
+  {
+    "canonical_name": "Fighting",
+    "category": "genres",
+    "steam_tag_id": 1743
+  },
+  {
+    "canonical_name": "Football",
+    "category": "genres",
+    "steam_tag_id": 7226
+  },
+  {
+    "canonical_name": "God Game",
+    "category": "genres",
+    "steam_tag_id": 5300
+  },
+  {
+    "canonical_name": "Golf",
+    "category": "genres",
+    "steam_tag_id": 7038
+  },
+  {
+    "canonical_name": "Hacking",
+    "category": "genres",
+    "steam_tag_id": 5502
+  },
+  {
+    "canonical_name": "Hidden Object",
+    "category": "genres",
+    "steam_tag_id": 1738
+  },
+  {
+    "canonical_name": "Hockey",
+    "category": "genres",
+    "steam_tag_id": 324176
+  },
+  {
+    "canonical_name": "Idler",
+    "category": "genres",
+    "steam_tag_id": 615955
+  },
+  {
+    "canonical_name": "Interactive Fiction",
+    "category": "genres",
+    "steam_tag_id": 11014
+  },
+  {
+    "canonical_name": "Management",
+    "category": "genres",
+    "steam_tag_id": 12472
+  },
+  {
+    "canonical_name": "Match 3",
+    "category": "genres",
+    "steam_tag_id": 1665
+  },
+  {
+    "canonical_name": "Medical Sim",
+    "category": "genres",
+    "steam_tag_id": 1100688
+  },
+  {
+    "canonical_name": "Mini Golf",
+    "category": "genres",
+    "steam_tag_id": 22955
+  },
+  {
+    "canonical_name": "Mining",
+    "category": "genres",
+    "steam_tag_id": 5981
+  },
+  {
+    "canonical_name": "MMORPG",
+    "category": "genres",
+    "steam_tag_id": 1754
+  },
+  {
+    "canonical_name": "MOBA",
+    "category": "genres",
+    "steam_tag_id": 1718
+  },
+  {
+    "canonical_name": "Motocross",
+    "category": "genres",
+    "steam_tag_id": 15868
+  },
+  {
+    "canonical_name": "Open World",
+    "category": "genres",
+    "steam_tag_id": 1695
+  },
+  {
+    "canonical_name": "Outbreak Sim",
+    "category": "genres",
+    "steam_tag_id": 1100686
+  },
+  {
+    "canonical_name": "Party-Based RPG",
+    "category": "genres",
+    "steam_tag_id": 10695
+  },
+  {
+    "canonical_name": "Pinball",
+    "category": "genres",
+    "steam_tag_id": 6621
+  },
+  {
+    "canonical_name": "Platformer",
+    "category": "genres",
+    "steam_tag_id": 1625
+  },
+  {
+    "canonical_name": "Point & Click",
+    "category": "genres",
+    "steam_tag_id": 1698
+  },
+  {
+    "canonical_name": "Rhythm",
+    "category": "genres",
+    "steam_tag_id": 1752
+  },
+  {
+    "canonical_name": "Roguelike",
+    "category": "genres",
+    "steam_tag_id": 1716
+  },
+  {
+    "canonical_name": "RTS",
+    "category": "genres",
+    "steam_tag_id": 1676
+  },
+  {
+    "canonical_name": "Sandbox",
+    "category": "genres",
+    "steam_tag_id": 3810
+  },
+  {
+    "canonical_name": "Shooter",
+    "category": "genres",
+    "steam_tag_id": 1774
+  },
+  {
+    "canonical_name": "Skateboarding",
+    "category": "genres",
+    "steam_tag_id": 1753
+  },
+  {
+    "canonical_name": "Skating",
+    "category": "genres",
+    "steam_tag_id": 96359
+  },
+  {
+    "canonical_name": "Skiing",
+    "category": "genres",
+    "steam_tag_id": 7309
+  },
+  {
+    "canonical_name": "Snowboarding",
+    "category": "genres",
+    "steam_tag_id": 28444
+  },
+  {
+    "canonical_name": "Soccer",
+    "category": "genres",
+    "steam_tag_id": 1679
+  },
+  {
+    "canonical_name": "Space Sim",
+    "category": "genres",
+    "steam_tag_id": 16598
+  },
+  {
+    "canonical_name": "Stealth",
+    "category": "genres",
+    "steam_tag_id": 1687
+  },
+  {
+    "canonical_name": "Strategy RPG",
+    "category": "genres",
+    "steam_tag_id": 17305
+  },
+  {
+    "canonical_name": "Survival",
+    "category": "genres",
+    "steam_tag_id": 1662
+  },
+  {
+    "canonical_name": "Tennis",
+    "category": "genres",
+    "steam_tag_id": 5914
+  },
+  {
+    "canonical_name": "Tower Defense",
+    "category": "genres",
+    "steam_tag_id": 1645
+  },
+  {
+    "canonical_name": "Trivia",
+    "category": "genres",
+    "steam_tag_id": 10437
+  },
+  {
+    "canonical_name": "Turn-Based Strategy",
+    "category": "genres",
+    "steam_tag_id": 1741
+  },
+  {
+    "canonical_name": "Visual Novel",
+    "category": "genres",
+    "steam_tag_id": 3799
+  },
+  {
+    "canonical_name": "Walking Simulator",
+    "category": "genres",
+    "steam_tag_id": 5900
+  },
+  {
+    "canonical_name": "Word Game",
+    "category": "genres",
+    "steam_tag_id": 24003
+  },
+  {
+    "canonical_name": "Wrestling",
+    "category": "genres",
+    "steam_tag_id": 47827
+  },
+  {
+    "canonical_name": "2D Fighter",
+    "category": "sub_genres",
+    "steam_tag_id": 4736
+  },
+  {
+    "canonical_name": "2D Platformer",
+    "category": "sub_genres",
+    "steam_tag_id": 5379
+  },
+  {
+    "canonical_name": "3D Fighter",
+    "category": "sub_genres",
+    "steam_tag_id": 6506
+  },
+  {
+    "canonical_name": "3D Platformer",
+    "category": "sub_genres",
+    "steam_tag_id": 5395
+  },
+  {
+    "canonical_name": "4X",
+    "category": "sub_genres",
+    "steam_tag_id": 1670
+  },
+  {
+    "canonical_name": "Action Roguelike",
+    "category": "sub_genres",
+    "steam_tag_id": 42804
+  },
+  {
+    "canonical_name": "Arena Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 5547
+  },
+  {
+    "canonical_name": "Beat 'em up",
+    "category": "sub_genres",
+    "steam_tag_id": 4158
+  },
+  {
+    "canonical_name": "Bullet Hell",
+    "category": "sub_genres",
+    "steam_tag_id": 4885
+  },
+  {
+    "canonical_name": "Card Battler",
+    "category": "sub_genres",
+    "steam_tag_id": 791774
+  },
+  {
+    "canonical_name": "Choose Your Own Adventure",
+    "category": "sub_genres",
+    "steam_tag_id": 4486
+  },
+  {
+    "canonical_name": "City Builder",
+    "category": "sub_genres",
+    "steam_tag_id": 4328
+  },
+  {
+    "canonical_name": "Collectathon",
+    "category": "sub_genres",
+    "steam_tag_id": 5652
+  },
+  {
+    "canonical_name": "Colony Sim",
+    "category": "sub_genres",
+    "steam_tag_id": 220585
+  },
+  {
+    "canonical_name": "Combat Racing",
+    "category": "sub_genres",
+    "steam_tag_id": 4102
+  },
+  {
+    "canonical_name": "CRPG",
+    "category": "sub_genres",
+    "steam_tag_id": 4474
+  },
+  {
+    "canonical_name": "Dating Sim",
+    "category": "sub_genres",
+    "steam_tag_id": 9551
+  },
+  {
+    "canonical_name": "Dungeon Crawler",
+    "category": "sub_genres",
+    "steam_tag_id": 1720
+  },
+  {
+    "canonical_name": "Education",
+    "category": "sub_genres",
+    "steam_tag_id": 1036
+  },
+  {
+    "canonical_name": "Flight",
+    "category": "sub_genres",
+    "steam_tag_id": 15045
+  },
+  {
+    "canonical_name": "FPS",
+    "category": "sub_genres",
+    "steam_tag_id": 1663
+  },
+  {
+    "canonical_name": "Grand Strategy",
+    "category": "sub_genres",
+    "steam_tag_id": 4364
+  },
+  {
+    "canonical_name": "Hack and Slash",
+    "category": "sub_genres",
+    "steam_tag_id": 1646
+  },
+  {
+    "canonical_name": "Heist",
+    "category": "sub_genres",
+    "steam_tag_id": 1680
+  },
+  {
+    "canonical_name": "Hero Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 620519
+  },
+  {
+    "canonical_name": "Horror",
+    "category": "sub_genres",
+    "steam_tag_id": 1667
+  },
+  {
+    "canonical_name": "Immersive Sim",
+    "category": "sub_genres",
+    "steam_tag_id": 9204
+  },
+  {
+    "canonical_name": "Investigation",
+    "category": "sub_genres",
+    "steam_tag_id": 8369
+  },
+  {
+    "canonical_name": "JRPG",
+    "category": "sub_genres",
+    "steam_tag_id": 4434
+  },
+  {
+    "canonical_name": "Life Sim",
+    "category": "sub_genres",
+    "steam_tag_id": 10235
+  },
+  {
+    "canonical_name": "Looter Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 353880
+  },
+  {
+    "canonical_name": "Metroidvania",
+    "category": "sub_genres",
+    "steam_tag_id": 1628
+  },
+  {
+    "canonical_name": "Mystery Dungeon",
+    "category": "sub_genres",
+    "steam_tag_id": 198631
+  },
+  {
+    "canonical_name": "On-Rails Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 56690
+  },
+  {
+    "canonical_name": "Open World Survival Craft",
+    "category": "sub_genres",
+    "steam_tag_id": 1100689
+  },
+  {
+    "canonical_name": "Political Sim",
+    "category": "sub_genres",
+    "steam_tag_id": 26921
+  },
+  {
+    "canonical_name": "Precision Platformer",
+    "category": "sub_genres",
+    "steam_tag_id": 3877
+  },
+  {
+    "canonical_name": "Programming",
+    "category": "sub_genres",
+    "steam_tag_id": 5432
+  },
+  {
+    "canonical_name": "Real Time Tactics",
+    "category": "sub_genres",
+    "steam_tag_id": 3813
+  },
+  {
+    "canonical_name": "Roguelite",
+    "category": "sub_genres",
+    "steam_tag_id": 3959
+  },
+  {
+    "canonical_name": "Roguevania",
+    "category": "sub_genres",
+    "steam_tag_id": 922563
+  },
+  {
+    "canonical_name": "Runner",
+    "category": "sub_genres",
+    "steam_tag_id": 8666
+  },
+  {
+    "canonical_name": "Shoot 'Em Up",
+    "category": "sub_genres",
+    "steam_tag_id": 4255
+  },
+  {
+    "canonical_name": "Side Scroller",
+    "category": "sub_genres",
+    "steam_tag_id": 3798
+  },
+  {
+    "canonical_name": "Sokoban",
+    "category": "sub_genres",
+    "steam_tag_id": 1730
+  },
+  {
+    "canonical_name": "Solitaire",
+    "category": "sub_genres",
+    "steam_tag_id": 13070
+  },
+  {
+    "canonical_name": "Souls-like",
+    "category": "sub_genres",
+    "steam_tag_id": 29482
+  },
+  {
+    "canonical_name": "Spectacle fighter",
+    "category": "sub_genres",
+    "steam_tag_id": 4777
+  },
+  {
+    "canonical_name": "Spelling",
+    "category": "sub_genres",
+    "steam_tag_id": 71389
+  },
+  {
+    "canonical_name": "Survival Horror",
+    "category": "sub_genres",
+    "steam_tag_id": 3978
+  },
+  {
+    "canonical_name": "Tactical RPG",
+    "category": "sub_genres",
+    "steam_tag_id": 21725
+  },
+  {
+    "canonical_name": "Third-Person Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 3814
+  },
+  {
+    "canonical_name": "Time Management",
+    "category": "sub_genres",
+    "steam_tag_id": 16689
+  },
+  {
+    "canonical_name": "Top-Down Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 4637
+  },
+  {
+    "canonical_name": "Trading",
+    "category": "sub_genres",
+    "steam_tag_id": 4202
+  },
+  {
+    "canonical_name": "Trading Card Game",
+    "category": "sub_genres",
+    "steam_tag_id": 9271
+  },
+  {
+    "canonical_name": "Traditional Roguelike",
+    "category": "sub_genres",
+    "steam_tag_id": 454187
+  },
+  {
+    "canonical_name": "Turn-Based Tactics",
+    "category": "sub_genres",
+    "steam_tag_id": 14139
+  },
+  {
+    "canonical_name": "Twin Stick Shooter",
+    "category": "sub_genres",
+    "steam_tag_id": 4758
+  },
+  {
+    "canonical_name": "Typing",
+    "category": "sub_genres",
+    "steam_tag_id": 1674
+  },
+  {
+    "canonical_name": "Wargame",
+    "category": "sub_genres",
+    "steam_tag_id": 4684
+  },
+  {
+    "canonical_name": "2.5D",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4975
+  },
+  {
+    "canonical_name": "2D",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 3871
+  },
+  {
+    "canonical_name": "360 Video",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 776177
+  },
+  {
+    "canonical_name": "3D",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4191
+  },
+  {
+    "canonical_name": "3D Vision",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 29363
+  },
+  {
+    "canonical_name": "Abstract",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4400
+  },
+  {
+    "canonical_name": "Anime",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4085
+  },
+  {
+    "canonical_name": "Cartoon",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4562
+  },
+  {
+    "canonical_name": "Cartoony",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4195
+  },
+  {
+    "canonical_name": "Cinematic",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4145
+  },
+  {
+    "canonical_name": "Colorful",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4305
+  },
+  {
+    "canonical_name": "Comic Book",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 1751
+  },
+  {
+    "canonical_name": "Cute",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4726
+  },
+  {
+    "canonical_name": "First-Person",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 3839
+  },
+  {
+    "canonical_name": "FMV",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 18594
+  },
+  {
+    "canonical_name": "Hand-drawn",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 6815
+  },
+  {
+    "canonical_name": "Isometric",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 5851
+  },
+  {
+    "canonical_name": "Minimalist",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4094
+  },
+  {
+    "canonical_name": "Noir",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 6052
+  },
+  {
+    "canonical_name": "Pixel Graphics",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 3964
+  },
+  {
+    "canonical_name": "Psychedelic",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 1714
+  },
+  {
+    "canonical_name": "Realistic",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4175
+  },
+  {
+    "canonical_name": "Split Screen",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 10816
+  },
+  {
+    "canonical_name": "Stylized",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4252
+  },
+  {
+    "canonical_name": "Text-Based",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 31275
+  },
+  {
+    "canonical_name": "Third Person",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 1697
+  },
+  {
+    "canonical_name": "Top-Down",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 4791
+  },
+  {
+    "canonical_name": "Voxel",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 1732
+  },
+  {
+    "canonical_name": "VR",
+    "category": "visuals_viewpoint",
+    "steam_tag_id": 21978
+  },
+  {
+    "canonical_name": "1980s",
+    "category": "themes_moods",
+    "steam_tag_id": 7743
+  },
+  {
+    "canonical_name": "1990's",
+    "category": "themes_moods",
+    "steam_tag_id": 6691
+  },
+  {
+    "canonical_name": "Agriculture",
+    "category": "themes_moods",
+    "steam_tag_id": 22602
+  },
+  {
+    "canonical_name": "Aliens",
+    "category": "themes_moods",
+    "steam_tag_id": 1673
+  },
+  {
+    "canonical_name": "Alternate History",
+    "category": "themes_moods",
+    "steam_tag_id": 4598
+  },
+  {
+    "canonical_name": "America",
+    "category": "themes_moods",
+    "steam_tag_id": 13190
+  },
+  {
+    "canonical_name": "Atmospheric",
+    "category": "themes_moods",
+    "steam_tag_id": 4166
+  },
+  {
+    "canonical_name": "Assassin",
+    "category": "themes_moods",
+    "steam_tag_id": 4376
+  },
+  {
+    "canonical_name": "Bikes",
+    "category": "themes_moods",
+    "steam_tag_id": 123332
+  },
+  {
+    "canonical_name": "Capitalism",
+    "category": "themes_moods",
+    "steam_tag_id": 4845
+  },
+  {
+    "canonical_name": "Cats",
+    "category": "themes_moods",
+    "steam_tag_id": 17894
+  },
+  {
+    "canonical_name": "Cold War",
+    "category": "themes_moods",
+    "steam_tag_id": 5179
+  },
+  {
+    "canonical_name": "Comic Book",
+    "category": "themes_moods",
+    "steam_tag_id": 1751
+  },
+  {
+    "canonical_name": "Conspiracy",
+    "category": "themes_moods",
+    "steam_tag_id": 5372
+  },
+  {
+    "canonical_name": "Crime",
+    "category": "themes_moods",
+    "steam_tag_id": 6378
+  },
+  {
+    "canonical_name": "Cyberpunk",
+    "category": "themes_moods",
+    "steam_tag_id": 4115
+  },
+  {
+    "canonical_name": "Dark",
+    "category": "themes_moods",
+    "steam_tag_id": 4342
+  },
+  {
+    "canonical_name": "Dark Fantasy",
+    "category": "themes_moods",
+    "steam_tag_id": 4604
+  },
+  {
+    "canonical_name": "Demons",
+    "category": "themes_moods",
+    "steam_tag_id": 9541
+  },
+  {
+    "canonical_name": "Destruction",
+    "category": "themes_moods",
+    "steam_tag_id": 5363
+  },
+  {
+    "canonical_name": "Detective",
+    "category": "themes_moods",
+    "steam_tag_id": 5613
+  },
+  {
+    "canonical_name": "Dinosaurs",
+    "category": "themes_moods",
+    "steam_tag_id": 5160
+  },
+  {
+    "canonical_name": "Diplomacy",
+    "category": "themes_moods",
+    "steam_tag_id": 6310
+  },
+  {
+    "canonical_name": "Dog",
+    "category": "themes_moods",
+    "steam_tag_id": 1638
+  },
+  {
+    "canonical_name": "Dragons",
+    "category": "themes_moods",
+    "steam_tag_id": 4046
+  },
+  {
+    "canonical_name": "Dynamic Narration",
+    "category": "themes_moods",
+    "steam_tag_id": 9592
+  },
+  {
+    "canonical_name": "Economy",
+    "category": "themes_moods",
+    "steam_tag_id": 4695
+  },
+  {
+    "canonical_name": "Education",
+    "category": "themes_moods",
+    "steam_tag_id": 1036
+  },
+  {
+    "canonical_name": "Faith",
+    "category": "themes_moods",
+    "steam_tag_id": 180368
+  },
+  {
+    "canonical_name": "Family Friendly",
+    "category": "themes_moods",
+    "steam_tag_id": 5350
+  },
+  {
+    "canonical_name": "Fantasy",
+    "category": "themes_moods",
+    "steam_tag_id": 1684
+  },
+  {
+    "canonical_name": "Foreign",
+    "category": "themes_moods",
+    "steam_tag_id": 51306
+  },
+  {
+    "canonical_name": "Futuristic",
+    "category": "themes_moods",
+    "steam_tag_id": 4295
+  },
+  {
+    "canonical_name": "Gambling",
+    "category": "themes_moods",
+    "steam_tag_id": 16250
+  },
+  {
+    "canonical_name": "Game Development",
+    "category": "themes_moods",
+    "steam_tag_id": 13906
+  },
+  {
+    "canonical_name": "Gothic",
+    "category": "themes_moods",
+    "steam_tag_id": 3952
+  },
+  {
+    "canonical_name": "Heist",
+    "category": "themes_moods",
+    "steam_tag_id": 1680
+  },
+  {
+    "canonical_name": "Historical",
+    "category": "themes_moods",
+    "steam_tag_id": 3987
+  },
+  {
+    "canonical_name": "Horses",
+    "category": "themes_moods",
+    "steam_tag_id": 6041
+  },
+  {
+    "canonical_name": "Illuminati",
+    "category": "themes_moods",
+    "steam_tag_id": 7478
+  },
+  {
+    "canonical_name": "Investigation",
+    "category": "themes_moods",
+    "steam_tag_id": 8369
+  },
+  {
+    "canonical_name": "Jet",
+    "category": "themes_moods",
+    "steam_tag_id": 92092
+  },
+  {
+    "canonical_name": "Lemmings",
+    "category": "themes_moods",
+    "steam_tag_id": 17337
+  },
+  {
+    "canonical_name": "LGBTQ+",
+    "category": "themes_moods",
+    "steam_tag_id": 44868
+  },
+  {
+    "canonical_name": "Logic",
+    "category": "themes_moods",
+    "steam_tag_id": 6129
+  },
+  {
+    "canonical_name": "Loot",
+    "category": "themes_moods",
+    "steam_tag_id": 4236
+  },
+  {
+    "canonical_name": "Lovecraftian",
+    "category": "themes_moods",
+    "steam_tag_id": 7432
+  },
+  {
+    "canonical_name": "Magic",
+    "category": "themes_moods",
+    "steam_tag_id": 4057
+  },
+  {
+    "canonical_name": "Management",
+    "category": "themes_moods",
+    "steam_tag_id": 12472
+  },
+  {
+    "canonical_name": "Mars",
+    "category": "themes_moods",
+    "steam_tag_id": 6702
+  },
+  {
+    "canonical_name": "Mechs",
+    "category": "themes_moods",
+    "steam_tag_id": 4821
+  },
+  {
+    "canonical_name": "Medieval",
+    "category": "themes_moods",
+    "steam_tag_id": 4172
+  },
+  {
+    "canonical_name": "Memes",
+    "category": "themes_moods",
+    "steam_tag_id": 10397
+  },
+  {
+    "canonical_name": "Military",
+    "category": "themes_moods",
+    "steam_tag_id": 4168
+  },
+  {
+    "canonical_name": "Modern",
+    "category": "themes_moods",
+    "steam_tag_id": 5673
+  },
+  {
+    "canonical_name": "Motorbike",
+    "category": "themes_moods",
+    "steam_tag_id": 198913
+  },
+  {
+    "canonical_name": "Mystery",
+    "category": "themes_moods",
+    "steam_tag_id": 5716
+  },
+  {
+    "canonical_name": "Mythology",
+    "category": "themes_moods",
+    "steam_tag_id": 16094
+  },
+  {
+    "canonical_name": "Nature",
+    "category": "themes_moods",
+    "steam_tag_id": 30358
+  },
+  {
+    "canonical_name": "Naval",
+    "category": "themes_moods",
+    "steam_tag_id": 6910
+  },
+  {
+    "canonical_name": "Ninja",
+    "category": "themes_moods",
+    "steam_tag_id": 1688
+  },
+  {
+    "canonical_name": "Offroad",
+    "category": "themes_moods",
+    "steam_tag_id": 7622
+  },
+  {
+    "canonical_name": "Old School",
+    "category": "themes_moods",
+    "steam_tag_id": 3916
+  },
+  {
+    "canonical_name": "Otome",
+    "category": "themes_moods",
+    "steam_tag_id": 31579
+  },
+  {
+    "canonical_name": "Parkour",
+    "category": "themes_moods",
+    "steam_tag_id": 4036
+  },
+  {
+    "canonical_name": "Philosophical",
+    "category": "themes_moods",
+    "steam_tag_id": 15277
+  },
+  {
+    "canonical_name": "Pirates",
+    "category": "themes_moods",
+    "steam_tag_id": 1681
+  },
+  {
+    "canonical_name": "Political",
+    "category": "themes_moods",
+    "steam_tag_id": 4853
+  },
+  {
+    "canonical_name": "Politics",
+    "category": "themes_moods",
+    "steam_tag_id": 4754
+  },
+  {
+    "canonical_name": "Pool",
+    "category": "themes_moods",
+    "steam_tag_id": 17927
+  },
+  {
+    "canonical_name": "Post-apocalyptic",
+    "category": "themes_moods",
+    "steam_tag_id": 3835
+  },
+  {
+    "canonical_name": "Programming",
+    "category": "themes_moods",
+    "steam_tag_id": 5432
+  },
+  {
+    "canonical_name": "Retro",
+    "category": "themes_moods",
+    "steam_tag_id": 4004
+  },
+  {
+    "canonical_name": "Robots",
+    "category": "themes_moods",
+    "steam_tag_id": 5752
+  },
+  {
+    "canonical_name": "Romance",
+    "category": "themes_moods",
+    "steam_tag_id": 4947
+  },
+  {
+    "canonical_name": "Rome",
+    "category": "themes_moods",
+    "steam_tag_id": 6948
+  },
+  {
+    "canonical_name": "Satire",
+    "category": "themes_moods",
+    "steam_tag_id": 1651
+  },
+  {
+    "canonical_name": "Science",
+    "category": "themes_moods",
+    "steam_tag_id": 5794
+  },
+  {
+    "canonical_name": "Sci-fi",
+    "category": "themes_moods",
+    "steam_tag_id": 3942
+  },
+  {
+    "canonical_name": "Sniper",
+    "category": "themes_moods",
+    "steam_tag_id": 7423
+  },
+  {
+    "canonical_name": "Snow",
+    "category": "themes_moods",
+    "steam_tag_id": 9803
+  },
+  {
+    "canonical_name": "Space",
+    "category": "themes_moods",
+    "steam_tag_id": 1755
+  },
+  {
+    "canonical_name": "Stealth",
+    "category": "themes_moods",
+    "steam_tag_id": 1687
+  },
+  {
+    "canonical_name": "Steampunk",
+    "category": "themes_moods",
+    "steam_tag_id": 1777
+  },
+  {
+    "canonical_name": "Submarine",
+    "category": "themes_moods",
+    "steam_tag_id": 19780
+  },
+  {
+    "canonical_name": "Superhero",
+    "category": "themes_moods",
+    "steam_tag_id": 1671
+  },
+  {
+    "canonical_name": "Supernatural",
+    "category": "themes_moods",
+    "steam_tag_id": 10808
+  },
+  {
+    "canonical_name": "Surreal",
+    "category": "themes_moods",
+    "steam_tag_id": 1710
+  },
+  {
+    "canonical_name": "Survival",
+    "category": "themes_moods",
+    "steam_tag_id": 1662
+  },
+  {
+    "canonical_name": "Swordplay",
+    "category": "themes_moods",
+    "steam_tag_id": 4608
+  },
+  {
+    "canonical_name": "Tactical",
+    "category": "themes_moods",
+    "steam_tag_id": 1708
+  },
+  {
+    "canonical_name": "Tanks",
+    "category": "themes_moods",
+    "steam_tag_id": 13276
+  },
+  {
+    "canonical_name": "Thriller",
+    "category": "themes_moods",
+    "steam_tag_id": 4064
+  },
+  {
+    "canonical_name": "Time Travel",
+    "category": "themes_moods",
+    "steam_tag_id": 10679
+  },
+  {
+    "canonical_name": "Trains",
+    "category": "themes_moods",
+    "steam_tag_id": 1616
+  },
+  {
+    "canonical_name": "Transhumanism",
+    "category": "themes_moods",
+    "steam_tag_id": 4137
+  },
+  {
+    "canonical_name": "Transportation",
+    "category": "themes_moods",
+    "steam_tag_id": 10383
+  },
+  {
+    "canonical_name": "Underground",
+    "category": "themes_moods",
+    "steam_tag_id": 21006
+  },
+  {
+    "canonical_name": "Underwater",
+    "category": "themes_moods",
+    "steam_tag_id": 9157
+  },
+  {
+    "canonical_name": "Vampire",
+    "category": "themes_moods",
+    "steam_tag_id": 4018
+  },
+  {
+    "canonical_name": "War",
+    "category": "themes_moods",
+    "steam_tag_id": 1678
+  },
+  {
+    "canonical_name": "Werewolves",
+    "category": "themes_moods",
+    "steam_tag_id": 17015
+  },
+  {
+    "canonical_name": "Western",
+    "category": "themes_moods",
+    "steam_tag_id": 1647
+  },
+  {
+    "canonical_name": "World War I",
+    "category": "themes_moods",
+    "steam_tag_id": 5382
+  },
+  {
+    "canonical_name": "World War II",
+    "category": "themes_moods",
+    "steam_tag_id": 4150
+  },
+  {
+    "canonical_name": "6DOF",
+    "category": "features",
+    "steam_tag_id": 4835
+  },
+  {
+    "canonical_name": "Archery",
+    "category": "features",
+    "steam_tag_id": 13382
+  },
+  {
+    "canonical_name": "Artificial Intelligence",
+    "category": "features",
+    "steam_tag_id": 7926
+  },
+  {
+    "canonical_name": "Asymmetric VR",
+    "category": "features",
+    "steam_tag_id": 856791
+  },
+  {
+    "canonical_name": "ATV",
+    "category": "features",
+    "steam_tag_id": 129761
+  },
+  {
+    "canonical_name": "Automation",
+    "category": "features",
+    "steam_tag_id": 255534
+  },
+  {
+    "canonical_name": "Base Building",
+    "category": "features",
+    "steam_tag_id": 7332
+  },
+  {
+    "canonical_name": "Boxing",
+    "category": "features",
+    "steam_tag_id": 12190
+  },
+  {
+    "canonical_name": "Building",
+    "category": "features",
+    "steam_tag_id": 1643
+  },
+  {
+    "canonical_name": "Bullet Time",
+    "category": "features",
+    "steam_tag_id": 5796
+  },
+  {
+    "canonical_name": "Character Customization",
+    "category": "features",
+    "steam_tag_id": 4747
+  },
+  {
+    "canonical_name": "Choices Matter",
+    "category": "features",
+    "steam_tag_id": 6426
+  },
+  {
+    "canonical_name": "Class-Based",
+    "category": "features",
+    "steam_tag_id": 4155
+  },
+  {
+    "canonical_name": "Combat",
+    "category": "features",
+    "steam_tag_id": 3993
+  },
+  {
+    "canonical_name": "Conversation",
+    "category": "features",
+    "steam_tag_id": 15172
+  },
+  {
+    "canonical_name": "Crafting",
+    "category": "features",
+    "steam_tag_id": 1702
+  },
+  {
+    "canonical_name": "Deckbuilding",
+    "category": "features",
+    "steam_tag_id": 32322
+  },
+  {
+    "canonical_name": "Driving",
+    "category": "features",
+    "steam_tag_id": 1644
+  },
+  {
+    "canonical_name": "Fishing",
+    "category": "features",
+    "steam_tag_id": 15564
+  },
+  {
+    "canonical_name": "Flight",
+    "category": "features",
+    "steam_tag_id": 15045
+  },
+  {
+    "canonical_name": "FMV",
+    "category": "features",
+    "steam_tag_id": 18594
+  },
+  {
+    "canonical_name": "Grid-Based Movement",
+    "category": "features",
+    "steam_tag_id": 7569
+  },
+  {
+    "canonical_name": "Gun Customization",
+    "category": "features",
+    "steam_tag_id": 5765
+  },
+  {
+    "canonical_name": "Hack and Slash",
+    "category": "features",
+    "steam_tag_id": 1646
+  },
+  {
+    "canonical_name": "Hacking",
+    "category": "features",
+    "steam_tag_id": 5502
+  },
+  {
+    "canonical_name": "Hex Grid",
+    "category": "features",
+    "steam_tag_id": 1717
+  },
+  {
+    "canonical_name": "Hunting",
+    "category": "features",
+    "steam_tag_id": 9564
+  },
+  {
+    "canonical_name": "Inventory Management",
+    "category": "features",
+    "steam_tag_id": 6276
+  },
+  {
+    "canonical_name": "Level Editor",
+    "category": "features",
+    "steam_tag_id": 8122
+  },
+  {
+    "canonical_name": "Linear",
+    "category": "features",
+    "steam_tag_id": 7250
+  },
+  {
+    "canonical_name": "Martial Arts",
+    "category": "features",
+    "steam_tag_id": 6915
+  },
+  {
+    "canonical_name": "Mining",
+    "category": "features",
+    "steam_tag_id": 5981
+  },
+  {
+    "canonical_name": "Moddable",
+    "category": "features",
+    "steam_tag_id": 1669
+  },
+  {
+    "canonical_name": "Multiple Endings",
+    "category": "features",
+    "steam_tag_id": 6971
+  },
+  {
+    "canonical_name": "Music-Based Procedural Generation",
+    "category": "features",
+    "steam_tag_id": 8253
+  },
+  {
+    "canonical_name": "Narration",
+    "category": "features",
+    "steam_tag_id": 5094
+  },
+  {
+    "canonical_name": "Naval Combat",
+    "category": "features",
+    "steam_tag_id": 4994
+  },
+  {
+    "canonical_name": "Nonlinear",
+    "category": "features",
+    "steam_tag_id": 6869
+  },
+  {
+    "canonical_name": "Open World",
+    "category": "features",
+    "steam_tag_id": 1695
+  },
+  {
+    "canonical_name": "Perma Death",
+    "category": "features",
+    "steam_tag_id": 1759
+  },
+  {
+    "canonical_name": "Physics",
+    "category": "features",
+    "steam_tag_id": 3968
+  },
+  {
+    "canonical_name": "Procedural Generation",
+    "category": "features",
+    "steam_tag_id": 5125
+  },
+  {
+    "canonical_name": "PvE",
+    "category": "features",
+    "steam_tag_id": 6730
+  },
+  {
+    "canonical_name": "PvP",
+    "category": "features",
+    "steam_tag_id": 1775
+  },
+  {
+    "canonical_name": "Quick-Time Events",
+    "category": "features",
+    "steam_tag_id": 4559
+  },
+  {
+    "canonical_name": "Resource Management",
+    "category": "features",
+    "steam_tag_id": 8945
+  },
+  {
+    "canonical_name": "Sailing",
+    "category": "features",
+    "steam_tag_id": 13577
+  },
+  {
+    "canonical_name": "Score Attack",
+    "category": "features",
+    "steam_tag_id": 5154
+  },
+  {
+    "canonical_name": "Stealth",
+    "category": "features",
+    "steam_tag_id": 1687
+  },
+  {
+    "canonical_name": "Story Rich",
+    "category": "features",
+    "steam_tag_id": 1742
+  },
+  {
+    "canonical_name": "Tabletop",
+    "category": "features",
+    "steam_tag_id": 17389
+  },
+  {
+    "canonical_name": "Team-Based",
+    "category": "features",
+    "steam_tag_id": 5711
+  },
+  {
+    "canonical_name": "Text-Based",
+    "category": "features",
+    "steam_tag_id": 31275
+  },
+  {
+    "canonical_name": "Time Manipulation",
+    "category": "features",
+    "steam_tag_id": 6625
+  },
+  {
+    "canonical_name": "Trading",
+    "category": "features",
+    "steam_tag_id": 4202
+  },
+  {
+    "canonical_name": "Turn-Based Combat",
+    "category": "features",
+    "steam_tag_id": 4325
+  },
+  {
+    "canonical_name": "Turn-Based Tactics",
+    "category": "features",
+    "steam_tag_id": 14139
+  },
+  {
+    "canonical_name": "Tutorial",
+    "category": "features",
+    "steam_tag_id": 12057
+  },
+  {
+    "canonical_name": "Vehicular Combat",
+    "category": "features",
+    "steam_tag_id": 11104
+  },
+  {
+    "canonical_name": "Female Protagonist",
+    "category": "features",
+    "steam_tag_id": 7208
+  },
+  {
+    "canonical_name": "Silent Protagonist",
+    "category": "features",
+    "steam_tag_id": 15954
+  },
+  {
+    "canonical_name": "Villain Protagonist",
+    "category": "features",
+    "steam_tag_id": 11333
+  },
+  {
+    "canonical_name": "Minigames",
+    "category": "features",
+    "steam_tag_id": 8093
+  },
+  {
+    "canonical_name": "Intentionally Awkward Controls",
+    "category": "features",
+    "steam_tag_id": 14906
+  },
+  {
+    "canonical_name": "4 Player Local",
+    "category": "players",
+    "steam_tag_id": 4840
+  },
+  {
+    "canonical_name": "Asynchronous Multiplayer",
+    "category": "players",
+    "steam_tag_id": 17770
+  },
+  {
+    "canonical_name": "Co-op",
+    "category": "players",
+    "steam_tag_id": 1685
+  },
+  {
+    "canonical_name": "Co-op Campaign",
+    "category": "players",
+    "steam_tag_id": 4508
+  },
+  {
+    "canonical_name": "Local Co-Op",
+    "category": "players",
+    "steam_tag_id": 3841
+  },
+  {
+    "canonical_name": "Local Multiplayer",
+    "category": "players",
+    "steam_tag_id": 7368
+  },
+  {
+    "canonical_name": "Massively Multiplayer",
+    "category": "players",
+    "steam_tag_id": 128
+  },
+  {
+    "canonical_name": "Multiplayer",
+    "category": "players",
+    "steam_tag_id": 3859
+  },
+  {
+    "canonical_name": "Online Co-Op",
+    "category": "players",
+    "steam_tag_id": 3843
+  },
+  {
+    "canonical_name": "Singleplayer",
+    "category": "players",
+    "steam_tag_id": 4182
+  },
+  {
+    "canonical_name": "Based on a Novel",
+    "category": "other_tags",
+    "steam_tag_id": 3796
+  },
+  {
+    "canonical_name": "Batman",
+    "category": "other_tags",
+    "steam_tag_id": null
+  },
+  {
+    "canonical_name": "Documentary",
+    "category": "other_tags",
+    "steam_tag_id": 15339
+  },
+  {
+    "canonical_name": "Drama",
+    "category": "other_tags",
+    "steam_tag_id": 5984
+  },
+  {
+    "canonical_name": "Dungeons & Dragons",
+    "category": "other_tags",
+    "steam_tag_id": 14153
+  },
+  {
+    "canonical_name": "Episodic",
+    "category": "other_tags",
+    "steam_tag_id": 4242
+  },
+  {
+    "canonical_name": "Experience",
+    "category": "other_tags",
+    "steam_tag_id": 9994
+  },
+  {
+    "canonical_name": "Feature Film",
+    "category": "other_tags",
+    "steam_tag_id": 233824
+  },
+  {
+    "canonical_name": "Games Workshop",
+    "category": "other_tags",
+    "steam_tag_id": 5310
+  },
+  {
+    "canonical_name": "Indie",
+    "category": "other_tags",
+    "steam_tag_id": 492
+  },
+  {
+    "canonical_name": "Lara Croft",
+    "category": "other_tags",
+    "steam_tag_id": null
+  },
+  {
+    "canonical_name": "LEGO",
+    "category": "other_tags",
+    "steam_tag_id": 1736
+  },
+  {
+    "canonical_name": "Mod",
+    "category": "other_tags",
+    "steam_tag_id": 5348
+  },
+  {
+    "canonical_name": "Movie",
+    "category": "other_tags",
+    "steam_tag_id": 4700
+  },
+  {
+    "canonical_name": "Music",
+    "category": "other_tags",
+    "steam_tag_id": 1621
+  },
+  {
+    "canonical_name": "Real-Time",
+    "category": "other_tags",
+    "steam_tag_id": 4161
+  },
+  {
+    "canonical_name": "Real-Time with Pause",
+    "category": "other_tags",
+    "steam_tag_id": 7107
+  },
+  {
+    "canonical_name": "Remake",
+    "category": "other_tags",
+    "steam_tag_id": 5708
+  },
+  {
+    "canonical_name": "Sequel",
+    "category": "other_tags",
+    "steam_tag_id": 5230
+  },
+  {
+    "canonical_name": "Soundtrack",
+    "category": "other_tags",
+    "steam_tag_id": 7948
+  },
+  {
+    "canonical_name": "Star Wars",
+    "category": "other_tags",
+    "steam_tag_id": null
+  },
+  {
+    "canonical_name": "Time Attack",
+    "category": "other_tags",
+    "steam_tag_id": 5390
+  },
+  {
+    "canonical_name": "Turn-Based",
+    "category": "other_tags",
+    "steam_tag_id": 1677
+  },
+  {
+    "canonical_name": "Warhammer 40K",
+    "category": "other_tags",
+    "steam_tag_id": 12286
+  },
+  {
+    "canonical_name": "Animation & Modeling",
+    "category": "software",
+    "steam_tag_id": 872
+  },
+  {
+    "canonical_name": "Audio Production",
+    "category": "software",
+    "steam_tag_id": 1027
+  },
+  {
+    "canonical_name": "Benchmark",
+    "category": "software",
+    "steam_tag_id": 5407
+  },
+  {
+    "canonical_name": "Design & Illustration",
+    "category": "software",
+    "steam_tag_id": 84
+  },
+  {
+    "canonical_name": "GameMaker",
+    "category": "software",
+    "steam_tag_id": 1649
+  },
+  {
+    "canonical_name": "Gaming",
+    "category": "software",
+    "steam_tag_id": 150626
+  },
+  {
+    "canonical_name": "Photo Editing",
+    "category": "software",
+    "steam_tag_id": 809
+  },
+  {
+    "canonical_name": "RPGMaker",
+    "category": "software",
+    "steam_tag_id": 5577
+  },
+  {
+    "canonical_name": "Software",
+    "category": "software",
+    "steam_tag_id": 8013
+  },
+  {
+    "canonical_name": "Software Training",
+    "category": "software",
+    "steam_tag_id": 1445
+  },
+  {
+    "canonical_name": "Utilities",
+    "category": "software",
+    "steam_tag_id": 87
+  },
+  {
+    "canonical_name": "Video Production",
+    "category": "software",
+    "steam_tag_id": 784
+  },
+  {
+    "canonical_name": "Web Publishing",
+    "category": "software",
+    "steam_tag_id": 1038
+  },
+  {
+    "canonical_name": "Addictive",
+    "category": "assessments",
+    "steam_tag_id": 4190
+  },
+  {
+    "canonical_name": "Beautiful",
+    "category": "assessments",
+    "steam_tag_id": 5411
+  },
+  {
+    "canonical_name": "Classic",
+    "category": "assessments",
+    "steam_tag_id": 1693
+  },
+  {
+    "canonical_name": "Competitive",
+    "category": "assessments",
+    "steam_tag_id": 3878
+  },
+  {
+    "canonical_name": "Cult Classic",
+    "category": "assessments",
+    "steam_tag_id": 7782
+  },
+  {
+    "canonical_name": "Difficult",
+    "category": "assessments",
+    "steam_tag_id": 4026
+  },
+  {
+    "canonical_name": "Emotional",
+    "category": "assessments",
+    "steam_tag_id": 5608
+  },
+  {
+    "canonical_name": "Epic",
+    "category": "assessments",
+    "steam_tag_id": 3965
+  },
+  {
+    "canonical_name": "Fast-Paced",
+    "category": "assessments",
+    "steam_tag_id": 1734
+  },
+  {
+    "canonical_name": "Funny",
+    "category": "assessments",
+    "steam_tag_id": 4136
+  },
+  {
+    "canonical_name": "Great Soundtrack",
+    "category": "assessments",
+    "steam_tag_id": 1756
+  },
+  {
+    "canonical_name": "Lore-Rich",
+    "category": "assessments",
+    "steam_tag_id": 3854
+  },
+  {
+    "canonical_name": "Masterpiece",
+    "category": "assessments",
+    "steam_tag_id": null
+  },
+  {
+    "canonical_name": "Psychological",
+    "category": "assessments",
+    "steam_tag_id": 5186
+  },
+  {
+    "canonical_name": "Relaxing",
+    "category": "assessments",
+    "steam_tag_id": 1654
+  },
+  {
+    "canonical_name": "Replay Value",
+    "category": "assessments",
+    "steam_tag_id": 4711
+  },
+  {
+    "canonical_name": "Short",
+    "category": "assessments",
+    "steam_tag_id": 4234
+  },
+  {
+    "canonical_name": "Unforgiving",
+    "category": "assessments",
+    "steam_tag_id": 1733
+  },
+  {
+    "canonical_name": "Comedy",
+    "category": "assessments",
+    "steam_tag_id": 1719
+  },
+  {
+    "canonical_name": "Dark Comedy",
+    "category": "assessments",
+    "steam_tag_id": 19995
+  },
+  {
+    "canonical_name": "Blood",
+    "category": "ratings_etc",
+    "steam_tag_id": 5228
+  },
+  {
+    "canonical_name": "Gore",
+    "category": "ratings_etc",
+    "steam_tag_id": 4345
+  },
+  {
+    "canonical_name": "Mature",
+    "category": "ratings_etc",
+    "steam_tag_id": 5611
+  },
+  {
+    "canonical_name": "NSFW",
+    "category": "ratings_etc",
+    "steam_tag_id": 24904
+  },
+  {
+    "canonical_name": "Nudity",
+    "category": "ratings_etc",
+    "steam_tag_id": 6650
+  },
+  {
+    "canonical_name": "Sexual Content",
+    "category": "ratings_etc",
+    "steam_tag_id": 12095
+  },
+  {
+    "canonical_name": "Violent",
+    "category": "ratings_etc",
+    "steam_tag_id": 4667
+  },
+  {
+    "canonical_name": "Controller",
+    "category": "hardware_input",
+    "steam_tag_id": 7481
+  },
+  {
+    "canonical_name": "Hardware",
+    "category": "hardware_input",
+    "steam_tag_id": 603297
+  },
+  {
+    "canonical_name": "Mouse only",
+    "category": "hardware_input",
+    "steam_tag_id": 11123
+  },
+  {
+    "canonical_name": "Steam Machine",
+    "category": "hardware_input",
+    "steam_tag_id": 348922
+  },
+  {
+    "canonical_name": "Touch-Friendly",
+    "category": "hardware_input",
+    "steam_tag_id": 25085
+  },
+  {
+    "canonical_name": "TrackIR",
+    "category": "hardware_input",
+    "steam_tag_id": 8075
+  },
+  {
+    "canonical_name": "Voice Control",
+    "category": "hardware_input",
+    "steam_tag_id": 27758
+  },
+  {
+    "canonical_name": "Crowdfunded",
+    "category": "funding_etc",
+    "steam_tag_id": 7113
+  },
+  {
+    "canonical_name": "Early Access",
+    "category": "funding_etc",
+    "steam_tag_id": 493
+  },
+  {
+    "canonical_name": "Free to Play",
+    "category": "funding_etc",
+    "steam_tag_id": 113
+  },
+  {
+    "canonical_name": "Kickstarter",
+    "category": "funding_etc",
+    "steam_tag_id": 5153
+  }
+]
